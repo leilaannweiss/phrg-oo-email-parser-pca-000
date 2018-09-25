@@ -35,5 +35,7 @@ This lab is test-driven, so run the test suite to get started and use the test o
 * How will you control for parsing a list of emails that is *either* comma separated *or* separated by a white space. 
 * Use an `attr_accessor` to set and get the list of emails
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-oo-email-parser/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-oo-email-parser/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Object Oriented Email Parser</p>
